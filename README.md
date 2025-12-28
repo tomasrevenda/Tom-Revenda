@@ -1,5 +1,5 @@
-# Tom-Revenda
-Pedagogické portfolio Magisterské studium
-Bc. Tomáš Revenda (D25195) 
-Katedra technické a informační výchovy 
-Pedagogická fakulta, UPOL
+# Tom-Revenda<br>
+Pedagogické portfolio Magisterské studium<br>
+Bc. Tomáš Revenda (D25195) <br>
+Katedra technické a informační výchovy <br>
+Pedagogická fakulta, UPOL<br>
